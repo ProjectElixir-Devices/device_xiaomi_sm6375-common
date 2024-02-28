@@ -230,6 +230,7 @@ debug.hwui.renderer=vulkan
 debug.egl.hw=1
 debug.mdpcomp.logs=0
 debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
 debug.sf.enable_advanced_sf_phase_offset=1
 debug.sf.enable_transaction_tracing=false
 ro.surface_flinger.max_frame_buffer_acquired_buffers=3
