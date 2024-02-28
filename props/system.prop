@@ -31,6 +31,12 @@ debug.sf.disable_backpressure=1
 debug.sf.enable_hwc_vds=1
 ro.sf.force_hwc_brightness=1
 
+# Iorapd
+ro.iorapd.enable=false
+iorapd.perfetto.enable=false
+iorapd.readahead.enable=false
+persist.device_config.runtime_native_boot.iorap_readahead_enable=false
+
 # IMS
 persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
