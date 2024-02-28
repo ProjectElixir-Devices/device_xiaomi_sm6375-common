@@ -222,7 +222,7 @@ ro.surface_flinger.use_content_detection_for_refresh_rate=false
 ro.surface_flinger.support_kernel_idle_timer=true
 
 # Graphics
-ro.hwui.render_ahead=5
+ro.hwui.render_ahead=23
 debug.sf.enable_egl_image_tracker=1
 debug.hwui.skia_atrace_enabled=false
 debug.renderengine.backend=skiaglthreaded
